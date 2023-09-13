@@ -14,7 +14,7 @@ Tested Devices:
 Because of the security rules it is really **time demanding** and **kind of impossible/not worth it** to get the pin with this approach, if it’s not in the range of x (time you could afford).  
 The pin security rules on those devices work like this:  
   
-| Try  | tries without lock | Wait time (locked) in seconds |
+| Try  | tries without lock | Lock time in seconds |
 | :--- | :---: | :--- |
 | 1-5 | 5 | 30 |
 | 6-10 | 5 | 30 |
