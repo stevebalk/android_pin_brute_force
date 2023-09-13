@@ -1,4 +1,4 @@
-Android pin brute force
+# Android pin brute force
 
 Python3 program that creates a **duckyscript** payload to brute force a 4-digit pin on android.  
 It uses an improved pin list to use most used pins first.  
