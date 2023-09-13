@@ -6,8 +6,8 @@ I tested the script with my Flipper Zero on a Xiaomi Redmi Note 10 Pro and a Sam
 The Redmi Note 10 used Android 11 and the Galaxy Tab Android 7.0<br>
 <br>
 Because of the security rules it is really time demanding and kind of impossible to get the pin with this approach if it’s not in the range of x (time you could afford<br>
-The pin security rules on this devices work like this:<br>
-
+The pin security rules on those devices work like this:<br>
+<br>
 | Try  | tries without lock | Waittime (locked) in seconds |
 | :--- | :---: | :--- |
 | 1-5 | 5 | 30 |
