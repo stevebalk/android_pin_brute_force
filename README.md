@@ -2,9 +2,14 @@ Android pin brute force
 
 Python3 program that creates a **duckyscript** payload to brute force a 4-digit pin on android.  
 It uses an improved pin list to use most used pins first.  
-  
-I tested the script with my Flipper Zero on a **Xiaomi Redmi Note 10 Pro** and a **Samsung Samsung Galaxy Tab A T580 (2016)**.  
-The Redmi Note 10 used Android 11 and the Galaxy Tab Android 7.0  
+I tested the script with my Flipper Zero (BadUsb)  
+
+Tested Devices:  
+
+| Device | Android Version |
+| :--- | :--- |
+| Xiaomi Redmi Note 10 Pro | Android 11.0 |
+| Samsung Samsung Galaxy Tab A T580 (2016) | Android 7.0 |
   
 Because of the security rules it is really **time demanding** and **kind of impossible/not worth it** to get the pin with this approach, if it’s not in the range of x (time you could afford).  
 The pin security rules on those devices work like this:  
