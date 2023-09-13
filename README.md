@@ -8,7 +8,13 @@ The Redmi Note 10 used Android 11 and the Galaxy Tab Android 7.0<br>
 Because of the security rules it is really time demanding and kind of impossible to get the pin with this approach if it’s not in the range of x (time you could afford<br>
 The pin security rules on this devices work like this:<br>
 <br>
-Try | Waittime (locked) in seconds<br>
+
+| Try  | Waittime (locked) in seconds |
+| ------------- | ------------- |
+| 1-5 (5 trys) | 30 |
+| 6-10 (5 trys)  | 30 |
+
+Try           | Waittime (locked) in seconds<br>
 1-5 (5 trys)  | 30<br>
 6-10 (5 trys) | 30<br>
 11-20 (1 try) | 30<br>
